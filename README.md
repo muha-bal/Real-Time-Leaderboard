@@ -90,7 +90,7 @@ https://roadmap.sh/projects/realtime-leaderboard-system
    ```
 2. Navigate to the project directory:
    ```bash
-   cd real-time-leaderboard
+   cd Real-Time-Leaderboard
    ```
 3. Setting Up a `.env` File
 
